@@ -1,0 +1,13 @@
+{{#location}}
+<li data-markerid="{{markerid}}">
+	<div class="list-label">{{marker}}</div>
+	<div class="list-details">
+		<div class="list-content">
+			<div class="loc-name">{{nama_pekerjaan}}</div>
+			{{#if distance}}
+				<div class="loc-dist loc-default-dist">{{distance}} {{length}}</div>
+			{{/if}}
+		</div>
+	</div>
+</li>
+{{/location}}

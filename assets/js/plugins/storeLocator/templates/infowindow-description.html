@@ -1,0 +1,13 @@
+{{#location}}
+<center>
+<table width="350" align="center">
+<tr><td class="loc-name" align="center">{{nama_pekerjaan}}</td></tr>
+<tr><td align="center">
+{{#if distance}}
+	<div class="loc-dist loc-default-dist">{{distance}} {{length}}</div>
+{{/if}}
+</td></tr>
+</table>
+</center>
+<div><a href="{{web}}" target="_blank">{{niceURL web}}</a></div>
+{{/location}}
