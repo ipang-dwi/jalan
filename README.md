@@ -27,7 +27,7 @@ Dilengkapi dengan dokumentasi dalam bentuk PDF yang berisi :
 
 Sangat cocok untuk dipelajari dan dikembangkan lagi. Terutama bagi yang ingin mempelajari atau mengembangkan :
 - kemampuan pemrograman web dengan PHP untuk backend, dan Bootstrap untuk frontend
-- penerapan RESTFUlL API, dalam hal ini GMap API - Google Map API
+- penerapan RESTFULL API, dalam hal ini GMap API - Google Map API
 - mempelajari berbagai product dan cara kerja GCP - Google Cloud Platform
 - teknologi yang diberikan Google Developer Partner, untuk para developer, khususnya yang berbasis web
 
