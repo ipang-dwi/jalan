@@ -31,7 +31,7 @@ Sangat cocok untuk dipelajari dan dikembangkan lagi. Terutama bagi yang ingin me
 - mempelajari berbagai product dan cara kerja GCP - Google Cloud Platform
 - teknologi yang diberikan Google Developer Partner, untuk para developer, khususnya yang berbasis web
 
-> Aplikasi ini opensource namun bukan freeware. Silahkan WA ke 083833-024200, untuk melakukan donasi. Bagi yang belum memiliki akun GCP, akan dipandu hingga bisa terverifikasi.
+> Aplikasi ini opensource namun bukan freeware. Silahkan WA ke o856-48587-856, untuk melakukan donasi. Bagi yang belum memiliki akun GCP, akan dipandu hingga bisa terverifikasi.
 
 Feel free to reach me on :
 - https://www.firstplato.com
